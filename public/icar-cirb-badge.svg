@@ -1,0 +1,11 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="64" cy="64" r="60" fill="#F4FFF9" stroke="#0AA06E" stroke-width="8"/>
+  <circle cx="64" cy="64" r="45" fill="#E2F7EE" stroke="#0B6D54" stroke-width="4"/>
+  <path d="M38 74C38 59.6406 49.6406 48 64 48C78.3594 48 90 59.6406 90 74" stroke="#0B6D54" stroke-width="6" stroke-linecap="round"/>
+  <path d="M50 55C50 49.4772 54.4772 45 60 45H68C73.5228 45 78 49.4772 78 55V60H50V55Z" fill="#0AA06E"/>
+  <circle cx="54" cy="71" r="4" fill="#0B6D54"/>
+  <circle cx="74" cy="71" r="4" fill="#0B6D54"/>
+  <path d="M61 71L67 71" stroke="#0B6D54" stroke-width="4" stroke-linecap="round"/>
+  <path d="M24 103H104" stroke="#0AA06E" stroke-width="6" stroke-linecap="round"/>
+  <text x="64" y="114" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#0B6D54">ICAR-CIRB</text>
+</svg>
